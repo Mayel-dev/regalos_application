@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+}
+
+main.container {
+    max-width: 1100px;
+}
+
+td {
+    overflow-wrap: anywhere;
+}
+
+.description {
+    min-width: 180px;
+    white-space: pre-wrap;
+}
